@@ -1,5 +1,7 @@
 # yt-addon-updates
 
+MADE WITH AI ASSISTANCE · FOR PERSONAL USE ONLY · NOT RESPONSIBLE FOR ANY LEGAL OR MORAL DISADVANTAGES BY USING THIS REPOSITORY
+
 [YT Downloader](https://addons.mozilla.org/) 파이어폭스 확장의 **자동 업데이트 안내 파일**만 담은 저장소.
 
 소스 코드는 여기 없다. 이 저장소가 따로 있는 이유는 하나다 — 파이어폭스가 새 판을 찾아보려면
