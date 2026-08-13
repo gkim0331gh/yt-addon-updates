@@ -1,0 +1,17 @@
+{
+    "addons":  {
+                   "yt-downloader@gavriil-dev.local":  {
+                                                           "updates":  [
+                                                                           {
+                                                                               "version":  "2.6.0",
+                                                                               "update_link":  "https://gkim0331gh.github.io/yt-addon-updates/yt-downloader-2.6.0.xpi",
+                                                                               "browser_specific_settings":  {
+                                                                                                                 "gecko":  {
+                                                                                                                               "strict_min_version":  "140.0"
+                                                                                                                           }
+                                                                                                             }
+                                                                           }
+                                                                       ]
+                                                       }
+               }
+}
