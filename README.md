@@ -17,7 +17,7 @@ MADE WITH AI ASSISTANCE · FOR PERSONAL USE ONLY · NOT RESPONSIBLE FOR ANY LEGA
 1. **[Releases](../../releases)** 에서 `ytdl-host.exe` 를 받아 **두 번 누른다**
    스스로 자리를 잡고, 브라우저에 등록하고, yt-dlp 와 ffmpeg 를 받아온다 (약 300MB)
 2. 브라우저에 확장을 설치한다
-   - **Firefox** — [`yt-downloader-2.6.0.xpi`](https://gkim0331gh.github.io/yt-addon-updates/yt-downloader-2.6.0.xpi) 를 열면 설치된다. 이후 자동 갱신된다
+   - **Firefox** — [`yt-downloader-2.6.1.xpi`](https://gkim0331gh.github.io/yt-addon-updates/yt-downloader-2.6.1.xpi) 를 열면 설치된다. 이후 자동 갱신된다
    - **Chrome / Edge** — Releases 의 `yt-downloader-chrome-<판>.zip` 을 풀고,
      `chrome://extensions` → 개발자 모드 → [압축해제된 확장 프로그램을 로드]
 
